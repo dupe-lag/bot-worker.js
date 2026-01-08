@@ -1,0 +1,13 @@
+name = "telegram-webhook-protector"
+compatibility_date = "2025-01-08"
+main = "worker.js"
+
+# For webhook URL variables (optional)
+[vars]
+# You can add your variables here
+# SECRET_TOKEN = "your-secret-here"
+
+# Route your Worker to a domain (optional)
+# routes = [
+#   { pattern = "telegram-webhook-protector.yourdomain.com", zone_name = "yourdomain.com" }
+# ]
