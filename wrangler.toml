@@ -1,3 +1,3 @@
-name = "telegram-webhook-protector"
+name = "letsstryy"
 compatibility_date = "2025-01-08"
 main = "bot-worker.js"
